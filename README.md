@@ -13,6 +13,9 @@ Antes de utilizar este script, asegúrate de tener Python 3 instalado en tu sist
 
 Asegúrate de instalar las siguientes dependencias antes de ejecutar el script. Puedes hacerlo ejecutando el siguiente comando:
 
+```
+pkg install python -y
+```
 ```bash
 pip install termcolor translate
 ```
@@ -20,7 +23,7 @@ pip install termcolor translate
 
 1 Clona este repositorio o descarga el archivo translator.py en tu sistema.
 ```
-git clone 
+git clone https://github.com/Retired64/Termux_Traslador.git
 ```
 ```
 cd Termux-Traslador
@@ -39,6 +42,8 @@ python traductor.py
 5 ¡Listo! El texto traducido estará disponible y guardado en un archivo de texto si así lo deseas
 
 ### Ejemplo
+
+![image](https://cdn.discordapp.com/attachments/1120450661050499083/1158656522100940841/Screenshot_20231002-233325_Termux2.png?ex=651d0a79&is=651bb8f9&hm=1c40b889716d59ae58206af3c7dcca0f38eeb6c167acc5a551dd36ac50cc3e62&)
 
 
 ## CONTRIBUCIONES 
