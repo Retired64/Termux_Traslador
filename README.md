@@ -20,7 +20,7 @@ pip install termcolor translate
 
 1 Clona este repositorio o descarga el archivo translator.py en tu sistema.
 ```
-git clone 
+git clone https://github.com/Retired64/Termux_Traslador.git
 ```
 ```
 cd Termux-Traslador
